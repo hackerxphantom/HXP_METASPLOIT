@@ -66,7 +66,7 @@ rm -rf $PREFIX/opt/metasploit-framework
 
 #cloning 
 echo -e "$ylo cloning  $rset"
-#git clone https://github.com/rapid7/metasploit-framework
+git clone https://github.com/rapid7/metasploit-framework
 clear
 #$HOME
 cd $HOME
